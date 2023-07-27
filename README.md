@@ -17,7 +17,3 @@ My name is Ashish and I'm an AI Trainer at Teenage Coder, and on the side, I mak
 ### Other Useful Links:
 
 LinkedIn - https://linkedin.com/in/ashish-jangra 
-
-Instagram - https://instagram.com/ashish_zangra 
-
-Facebook - https://facebook.com/ashishzangra
