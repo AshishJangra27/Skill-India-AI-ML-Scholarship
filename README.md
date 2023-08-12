@@ -4,7 +4,7 @@ This repository is having all the codes used in AI/ML Skill India Scholarship by
 -----
 ### About the Repository?
 
-You'll learn Python, Data Structure, Data Handling, File Handling, JSON, Numpy, Pandas, Data Visualizations, Data Analysis and AI Algorithms to make Breast Cancer Detection.
+n this course, you'll explore various topics such as Python programming, data structures, file handling, JSON, Numpy, Pandas, data visualizations, data analysis, and AI algorithms that are relevant to detecting breast cancer.
 
 -----
 
